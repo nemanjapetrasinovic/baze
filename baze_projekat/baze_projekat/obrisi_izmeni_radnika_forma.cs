@@ -102,13 +102,12 @@ namespace baze_projekat
                     //                              select o).ToList<zaposleni>();
                     //dataGridView1.DataSource = zaposleni;
                     IList<sef> sef = (from o in s.Query<sef>()
-                                      where (o.lime == textBox2.Text && o.sslovo == textBox3.Text && o.prezime == textBox4.Text)
                                       select o).ToList<sef>();
+                   
                     IList<prodavac> prodavac = (from o in s.Query<prodavac>()
-                                                where (o.lime == textBox2.Text && o.sslovo == textBox3.Text && o.prezime == textBox4.Text)
                                                 select o).ToList<prodavac>();
                     dataGridView1.DataSource = sef;
-                    dataGridView1.DataSource = prodavac;
+                    dataGridView2.DataSource = prodavac;
                 }
 
             }
