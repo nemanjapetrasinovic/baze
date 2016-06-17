@@ -1,0 +1,68 @@
+c:\users\marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\baze_projekat.exe.config
+c:\users\marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\obj\Debug\baze_projekat.Properties.Resources.resources
+c:\users\marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\obj\Debug\baze_projekat.csproj.GenerateResource.Cache
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\baze_projekat.exe
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\baze_projekat.pdb
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\NHibernate.dll
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\NHibernate.xml
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\obj\Debug\baze_projekat.Form1.resources
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\obj\Debug\baze_projekat.exe
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\obj\Debug\baze_projekat.pdb
+C:\Users\Marija\documents\visual studio 2015\Projects\baze_projekat\baze_projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Marija\Documents\Visual Studio 2015\Projects\baze_projekat\baze_projekat\obj\Debug\baze_projekat.csprojResolveAssemblyReference.cache
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\baze_projekat.exe.config
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\baze_projekat.exe
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\baze_projekat.pdb
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\FluentNHibernate.dll
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\Iesi.Collections.dll
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\NHibernate.dll
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\FluentNHibernate.pdb
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\FluentNHibernate.xml
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\Iesi.Collections.xml
+D:\Projekti\baze_projekat\baze_projekat\bin\Debug\NHibernate.xml
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.agent_forma_unos.resources
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.Form1.resources
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.kvart_forma_brisanje.resources
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.kvart_forma_unos.resources
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.nekretnina_forma_unos.resources
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.poslovnica_forma_unos.resources
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.Properties.Resources.resources
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.ugovor_forma_unos.resources
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.zaposleni_forma_unos.resources
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.csproj.GenerateResource.Cache
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.exe
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.pdb
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.csprojResolveAssemblyReference.cache
+D:\Projekti\baze_projekat\baze_projekat\obj\Debug\baze_projekat.klijent_forma_unos.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\baze_projekat.exe.config
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\baze_projekat.exe
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\baze_projekat.pdb
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\FluentNHibernate.dll
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\Iesi.Collections.dll
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\NHibernate.dll
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\FluentNHibernate.pdb
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\FluentNHibernate.xml
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\Iesi.Collections.xml
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\bin\Debug\NHibernate.xml
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.agent_forma_unos.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.Form1.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.klijent_forma_unos.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.kvart_forma_brisanje.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.kvart_forma_unos.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.nekretnina_forma_unos.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.poslovnica_forma_unos.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.Properties.Resources.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.obrisi_izmeni_radnika_forma.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.ugovor_forma_unos.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.zaposleni_forma_unos.resources
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.csproj.GenerateResource.Cache
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.exe
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.pdb
+C:\Users\Marija\Downloads\baze_projekat\baze_projekat\obj\Debug\baze_projekat.csprojResolveAssemblyReference.cache
