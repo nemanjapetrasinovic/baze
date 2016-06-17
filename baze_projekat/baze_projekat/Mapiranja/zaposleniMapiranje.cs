@@ -13,7 +13,7 @@ namespace baze_projekat.Mapiranja
         public zaposleniMapiranje()
         {
             Table("ZAPOSLENI");
-            DiscriminateSubClassesOnColumn("FLAG_PRODAVAC");
+            DiscriminateSubClassesOnColumn("FLAG_PRODAVAC",0);
 
             Id(x => x.id_zaposlenog, "ID_ZAPOSLENOG").GeneratedBy.TriggerIdentity();
             Map(x => x.jmbg, "JMBG");
