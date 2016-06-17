@@ -13,7 +13,7 @@ namespace baze_projekat.Entiteti
         public virtual string lime { get; set; }
         public virtual string sslovo { get; set; }
         public virtual string prezime { get; set; }
-        public virtual int flag_prodavac { get; set; }
+       // public virtual int flag_prodavac { get; set; }
         public virtual IList<ugovor> Ugovor { get; set; }
 
 
