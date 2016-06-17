@@ -27,22 +27,22 @@ namespace baze_projekat.Data_Access
             }
         }
 
-        public static void Delete(ISession s, int Id)
-        {
-            try
-            {
-                T item = s.Load<T>(Id);
+        //public static void Delete(ISession s, int Id)
+        //{
+        //    try
+        //    {
+        //        T item = s.Load<T>(Id);
 
-                s.Delete(item);
-                s.Flush();
-                MessageBox.Show("Uspešno ste obrisali podatke");
+        //        s.Delete(item);
+        //        s.Flush();
+        //        MessageBox.Show("Uspešno ste obrisali podatke");
 
-            }
-            catch (Exception e)
-            {
-                MessageBox.Show(e.Message);
-            }
-        }
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        MessageBox.Show(e.Message);
+        //    }
+        //}
 
         static public T Read(ISession s, int id)
         {

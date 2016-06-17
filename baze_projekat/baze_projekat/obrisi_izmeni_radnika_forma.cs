@@ -122,15 +122,14 @@ namespace baze_projekat
             try
             {
                 ISession s = DataLayer.GetSession();
-                int a = dataGridView1.CurrentCell.RowIndex;
+                int a = dataGridView2.CurrentCell.RowIndex;
 
-            DataGridViewRow red = dataGridView1.Rows[a];
-            string b = Convert.ToString(red.Cells[0].Value);
-            
-            if(red.Cells[5].ToString()=="1")
-            {
-                    prodavac p = s.Load<prodavac>(Int32.Parse(b));
-            }
+                DataGridViewRow red = dataGridView2.Rows[a];
+                string b = Convert.ToString(red.Cells[2].Value);
+                prodavac p = s.Load<prodavac>(Int32.Parse(b));
+                s.Delete(p);
+                s.Flush();
+                s.Close();
             }
             catch (Exception ex)
             {
